@@ -4,8 +4,6 @@
 
 [![R3ady's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3adyOficial&show_icons=true&theme=dracula)](https://github.com/R3adyOficial/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3adyOficial)](https://github.com/R3adyOficial/)
-
 ## Tecnologias que eu no meu dia a dia
 
 <div style="display: inline_block;"><br />
