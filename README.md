@@ -1,4 +1,4 @@
-### 👋 Olá, eu me chamo *Phelpe Wellyngton* mas sou conhecido como *R3ady*
+### 👋 Olá, eu me chamo ***Phelpe Wellyngton*** mas sou conhecido como ***R3ady***
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/R3ady) [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lypee_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://google.com/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lypee.souza/)
 
