@@ -4,7 +4,7 @@
 
 [![R3ady's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3adyOficial&show_icons=true&theme=dracula)](https://github.com/R3adyOficial/)
 
-## Tecnologias que eu no meu dia a dia
+## 🛠 Tecnologias que eu no meu dia a dia
 
 <div style="display: inline_block;"><br />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,5 +15,5 @@
 <br />
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-## Entre em contato
+## 📞 Entre em contato
 - Para entrar em contato comigo basta clicar neste link [</Lypee.Sou>#6776](https://discord.com/channels/@me/424646241209679894)
