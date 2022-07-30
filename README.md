@@ -1,4 +1,4 @@
-### 👋 Olá, eu me chamo ***Phelpe Wellyngton*** mas sou conhecido como ***R3ady***
+## 👋 Olá, eu sou o *R3ady*.
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
@@ -7,7 +7,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/r3adyoficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r3adyoficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3adyoficial&layout=compact&langs_count=7&theme=radical"/>
