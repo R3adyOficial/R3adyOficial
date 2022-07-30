@@ -2,7 +2,11 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/R3ady) [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lypee_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VDH3ncpBFY) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lypee.souza/)
 
-[![R3ady's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3adyoficial&show_icons=true&theme=radical)](https://github.com/R3adyOficial/)
+<div align="left">
+  <a href="https://github.com/r3adyoficial">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r3adyoficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3adyoficial&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## 🛠 Tecnologias que eu no meu dia a dia
 
