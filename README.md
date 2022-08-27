@@ -23,3 +23,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ##
   
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/R3ady) [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lypee_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VDH3ncpBFY) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lypee.souza/)
+
+##
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424646241209679894?idleMessage=%22Ol%C3%A1,%20eu%20me%20chamo%20Felipe%20mais%20sou%20conhecido%20como%20R3ady%22&borderRadius=25px&hideBadges=false)](https://discord.com/users/424646241209679894)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/975164971711332383?idleMessage=%22Ol%C3%A1,%20eu%20me%20chamo%20Felipe%20mais%20sou%20conhecido%20como%20R3ady%22&borderRadius=25px&hideBadges=false)](https://discord.com/users/975164971711332383)
