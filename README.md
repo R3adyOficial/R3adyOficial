@@ -22,7 +22,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ##
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424646241209679894?idleMessage=%22Ol%C3%A1,%20eu%20me%20chamo%20Felipe%20mais%20sou%20conhecido%20como%20R3ady%22&borderRadius=25px&hideBadges=false)](https://discord.com/users/424646241209679894)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/975164971711332383?idleMessage=%22Ol%C3%A1,%20eu%20me%20chamo%20Felipe%20mais%20sou%20conhecido%20como%20R3ady%22&borderRadius=25px&hideBadges=false)](https://discord.com/users/975164971711332383)
 
 ##
