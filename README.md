@@ -1,4 +1,5 @@
 <center>
+
   ## 👋 Olá, eu sou o *Adam*.
 
   Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
