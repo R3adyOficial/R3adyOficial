@@ -1,4 +1,4 @@
-#### 👋 - Falaa Dev, eu me chamo **Phelype Wellyngton de Souza Côcco** mais conhecido como **Lyp**. {JS}
+#### 👋 - Falaa Dev, eu me chamo **Phelype Wellyngton de Souza Côcco** mais conhecido como **Lyp**. 🟨
 
 - 🔭 Atualmente não estou em nenhum projeto.
 - 🌱 Sempre estudando mais linguas de programações.
